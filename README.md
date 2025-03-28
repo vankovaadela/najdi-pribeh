@@ -64,7 +64,10 @@ Knihovníci a knihkupci
  Propojení s knihovnami a e-shopy pro okamžité půjčení nebo koupi
  Rozšíření o více jazyků  
 
-## 7. Použité technologie  
+## 7. Poděkování a zdroje
+**Autoři:** Adéla Vaňková a Tereza Látová
+**Inspirace:** IMDb, Goodreads, ČSFD, Databáze knih
+**Podobné příklady:** Shazam, Google Lens
 
-## 8. Instalace a spuštění  
+
 
