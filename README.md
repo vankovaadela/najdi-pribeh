@@ -1,6 +1,6 @@
 # najdi-pribeh
 # AI pro rozpoznávání knih a filmů podle úryvku 
-NajdiTenPříběh je AI systém, který pomáhá najít název knihy nebo filmu na základě krátkého úryvku textu nebo popisu scény. Pokud si pamatujete jen část příběhu, ale ne jeho název, tato aplikace vám ho pomůže najít.  
+NajdiPříběh je AI systém, který pomáhá najít název knihy nebo filmu na základě krátkého úryvku textu nebo popisu scény. Pokud si pamatujete jen část příběhu, ale ne jeho název, tato aplikace vám ho pomůže najít.  
 
 ##  1. Shrnutí nápadu  
 **NajdiTenPříběh** je AI vyhledávač knih a filmů, který pracuje s textovými úryvky. Uživatel zadá část příběhu nebo popis scény a systém mu navrhne možné odpovídající tituly.  
