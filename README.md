@@ -3,11 +3,11 @@
 NajdiPříběh je AI systém, který pomáhá najít název knihy nebo filmu na základě krátkého úryvku textu nebo popisu scény. Pokud si pamatujete jen část příběhu, ale ne jeho název, tato aplikace vám ho pomůže najít.  
 
 ##  1. Shrnutí nápadu  
-**NajdiTenPříběh** je AI vyhledávač knih a filmů, který pracuje s textovými úryvky. Uživatel zadá část příběhu nebo popis scény a systém mu navrhne možné odpovídající tituly.  
+**NajdiPříběh** je AI vyhledávač knih a filmů, který pracuje s textovými úryvky. Uživatel zadá část příběhu nebo popis scény a systém mu navrhne možné odpovídající tituly.  
 
 ##  2. Pozadí projektu  
 ### Jaký problém projekt řeší?  
-Lidé si často pamatují jen útržky příběhu, ale ne jeho název.  
+ Lidé si často pamatují jen útržky příběhu, ale ne jeho název.  
  Internetové vyhledávače nejsou vždy schopné pomoci, pokud není zadán přesný název nebo klíčová slova.  
 
 ### Význam problému  
@@ -16,11 +16,11 @@ Lidé si často pamatují jen útržky příběhu, ale ne jeho název.
   Pomůže při hledání filmů podle děje, když neznáme herce ani režiséra.  
 
 ### Osobní motivace  
-Každý z nás někdy zapomněl název knihy nebo filmu, který hledal.  
+ Každý z nás někdy zapomněl název knihy nebo filmu, který hledal.  
  Chceme vytvořit AI systém, který tento problém vyřeší jednoduše a efektivně.  
 
 ### Proč je toto téma důležité?  
- Pomůže lidem znovu objevit jejich oblíbené příběhy.  
+  Pomůže lidem znovu objevit jejich oblíbené příběhy.  
   Může být využito i v knihovnách, knihkupectvích nebo ve školách.  
 
 ##  3. Data a AI techniky  
@@ -35,8 +35,6 @@ Každý z nás někdy zapomněl název knihy nebo filmu, který hledal.
  **Zpracování přirozeného jazyka (NLP)** – analýza textu a hledání podobností  
  **Strojové učení** – modely, které se učí na existujících textech  
  **Vyhledávání na základě podobnosti** – porovnávání úryvků s databází  
-
----
 
 ##  4. Použití  
 ### Kdo bude systém využívat?  
